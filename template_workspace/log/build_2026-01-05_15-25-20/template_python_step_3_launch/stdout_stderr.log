@@ -1,0 +1,40 @@
+running egg_info
+creating ../../build/template_python_step_3_launch/template_python_step_3_launch.egg-info
+writing ../../build/template_python_step_3_launch/template_python_step_3_launch.egg-info/PKG-INFO
+writing dependency_links to ../../build/template_python_step_3_launch/template_python_step_3_launch.egg-info/dependency_links.txt
+writing entry points to ../../build/template_python_step_3_launch/template_python_step_3_launch.egg-info/entry_points.txt
+writing requirements to ../../build/template_python_step_3_launch/template_python_step_3_launch.egg-info/requires.txt
+writing top-level names to ../../build/template_python_step_3_launch/template_python_step_3_launch.egg-info/top_level.txt
+writing manifest file '../../build/template_python_step_3_launch/template_python_step_3_launch.egg-info/SOURCES.txt'
+reading manifest file '../../build/template_python_step_3_launch/template_python_step_3_launch.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/template_python_step_3_launch/template_python_step_3_launch.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/suogi/template_workspace/build/template_python_step_3_launch/build
+creating /home/suogi/template_workspace/build/template_python_step_3_launch/build/lib
+creating /home/suogi/template_workspace/build/template_python_step_3_launch/build/lib/template_python_step_3_launch
+copying template_python_step_3_launch/__init__.py -> /home/suogi/template_workspace/build/template_python_step_3_launch/build/lib/template_python_step_3_launch
+copying template_python_step_3_launch/listener.py -> /home/suogi/template_workspace/build/template_python_step_3_launch/build/lib/template_python_step_3_launch
+copying template_python_step_3_launch/talker.py -> /home/suogi/template_workspace/build/template_python_step_3_launch/build/lib/template_python_step_3_launch
+running install
+running install_lib
+creating /home/suogi/template_workspace/install/template_python_step_3_launch/lib/python3.10/site-packages/template_python_step_3_launch
+copying /home/suogi/template_workspace/build/template_python_step_3_launch/build/lib/template_python_step_3_launch/__init__.py -> /home/suogi/template_workspace/install/template_python_step_3_launch/lib/python3.10/site-packages/template_python_step_3_launch
+copying /home/suogi/template_workspace/build/template_python_step_3_launch/build/lib/template_python_step_3_launch/listener.py -> /home/suogi/template_workspace/install/template_python_step_3_launch/lib/python3.10/site-packages/template_python_step_3_launch
+copying /home/suogi/template_workspace/build/template_python_step_3_launch/build/lib/template_python_step_3_launch/talker.py -> /home/suogi/template_workspace/install/template_python_step_3_launch/lib/python3.10/site-packages/template_python_step_3_launch
+byte-compiling /home/suogi/template_workspace/install/template_python_step_3_launch/lib/python3.10/site-packages/template_python_step_3_launch/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/suogi/template_workspace/install/template_python_step_3_launch/lib/python3.10/site-packages/template_python_step_3_launch/listener.py to listener.cpython-310.pyc
+byte-compiling /home/suogi/template_workspace/install/template_python_step_3_launch/lib/python3.10/site-packages/template_python_step_3_launch/talker.py to talker.cpython-310.pyc
+running install_data
+creating /home/suogi/template_workspace/install/template_python_step_3_launch/share/ament_index
+creating /home/suogi/template_workspace/install/template_python_step_3_launch/share/ament_index/resource_index
+creating /home/suogi/template_workspace/install/template_python_step_3_launch/share/ament_index/resource_index/packages
+copying resource/template_python_step_3_launch -> /home/suogi/template_workspace/install/template_python_step_3_launch/share/ament_index/resource_index/packages
+copying package.xml -> /home/suogi/template_workspace/install/template_python_step_3_launch/share/template_python_step_3_launch
+running install_egg_info
+Copying ../../build/template_python_step_3_launch/template_python_step_3_launch.egg-info to /home/suogi/template_workspace/install/template_python_step_3_launch/lib/python3.10/site-packages/template_python_step_3_launch-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener.py script to /home/suogi/template_workspace/install/template_python_step_3_launch/lib/template_python_step_3_launch
+Installing talker.py script to /home/suogi/template_workspace/install/template_python_step_3_launch/lib/template_python_step_3_launch
+writing list of installed files to '/home/suogi/template_workspace/build/template_python_step_3_launch/install.log'

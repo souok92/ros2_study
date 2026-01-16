@@ -1,0 +1,11 @@
+simple_talker:
+  ros__parameters:
+    publish_frequency: 2.0  # Hz - 메시지 발행 주기
+    topic_name: "chatter"   # 토픽 이름
+    message_prefix: "Hello World"  # 메시지 앞에 붙을 문구
+    queue_size: 10  # Publisher QoS queue size
+
+simple_listener:
+  ros__parameters:
+    topic_name: "chatter"  # 구독할 토픽 이름
+    queue_size: 10  # Subscriber QoS queue size

@@ -1,0 +1,23 @@
+[1.237s] Invoking command in '/home/suogi/template_workspace/src/template_python_step_2': PYTHONPATH=/home/suogi/template_workspace/build/template_python_step_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/template_python_step_2 build --build-base /home/suogi/template_workspace/build/template_python_step_2/build install --record /home/suogi/template_workspace/build/template_python_step_2/install.log --single-version-externally-managed install_data
+[1.544s] running egg_info
+[1.544s] writing ../../build/template_python_step_2/template_python_step_2.egg-info/PKG-INFO
+[1.545s] writing dependency_links to ../../build/template_python_step_2/template_python_step_2.egg-info/dependency_links.txt
+[1.545s] writing entry points to ../../build/template_python_step_2/template_python_step_2.egg-info/entry_points.txt
+[1.545s] writing requirements to ../../build/template_python_step_2/template_python_step_2.egg-info/requires.txt
+[1.545s] writing top-level names to ../../build/template_python_step_2/template_python_step_2.egg-info/top_level.txt
+[1.548s] reading manifest file '../../build/template_python_step_2/template_python_step_2.egg-info/SOURCES.txt'
+[1.548s] adding license file 'LICENSE'
+[1.549s] writing manifest file '../../build/template_python_step_2/template_python_step_2.egg-info/SOURCES.txt'
+[1.549s] running build
+[1.549s] running build_py
+[1.550s] running install
+[1.550s] running install_lib
+[1.552s] running install_data
+[1.552s] running install_egg_info
+[1.555s] removing '/home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages/template_python_step_2-0.0.0-py3.10.egg-info' (and everything under it)
+[1.555s] Copying ../../build/template_python_step_2/template_python_step_2.egg-info to /home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages/template_python_step_2-0.0.0-py3.10.egg-info
+[1.557s] running install_scripts
+[1.580s] Installing listener_step_2 script to /home/suogi/template_workspace/install/template_python_step_2/lib/template_python_step_2
+[1.580s] Installing talker_step_2 script to /home/suogi/template_workspace/install/template_python_step_2/lib/template_python_step_2
+[1.580s] Installing temp_node script to /home/suogi/template_workspace/install/template_python_step_2/lib/template_python_step_2
+[1.581s] writing list of installed files to '/home/suogi/template_workspace/build/template_python_step_2/install.log'

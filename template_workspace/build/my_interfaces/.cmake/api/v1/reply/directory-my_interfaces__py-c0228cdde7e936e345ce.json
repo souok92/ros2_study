@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "my_interfaces__py",
+		"source" : "/home/suogi/template_workspace/build/my_interfaces/my_interfaces__py"
+	}
+}

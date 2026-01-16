@@ -1,0 +1,5 @@
+[console_scripts]
+image_publisher_node = template_python_step_5_include_data.image_publisher_node:main
+inference_node = template_python_step_5_include_data.inference_node:main
+result_viewer_node = template_python_step_5_include_data.result_viewer_node:main
+

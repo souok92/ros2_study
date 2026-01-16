@@ -1,0 +1,4 @@
+[console_scripts]
+listener = template_python_step_3_launch.listener:main
+talker = template_python_step_3_launch.talker:main
+

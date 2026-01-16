@@ -1,0 +1,25 @@
+[0.848s] Invoking command in '/home/suogi/template_workspace/src/template_python_step_5_include_data': PYTHONPATH=/home/suogi/template_workspace/build/template_python_step_5_include_data/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/template_python_step_5_include_data build --build-base /home/suogi/template_workspace/build/template_python_step_5_include_data/build install --record /home/suogi/template_workspace/build/template_python_step_5_include_data/install.log --single-version-externally-managed install_data
+[1.143s] running egg_info
+[1.144s] writing ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/PKG-INFO
+[1.145s] writing dependency_links to ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/dependency_links.txt
+[1.145s] writing entry points to ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/entry_points.txt
+[1.145s] writing requirements to ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/requires.txt
+[1.145s] writing top-level names to ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/top_level.txt
+[1.148s] reading manifest file '../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/SOURCES.txt'
+[1.148s] adding license file 'LICENSE'
+[1.149s] writing manifest file '../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/SOURCES.txt'
+[1.149s] running build
+[1.150s] running build_py
+[1.150s] copying template_python_step_5_include_data/ai/__init__.py -> /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data/ai
+[1.150s] running install
+[1.151s] running install_lib
+[1.152s] copying /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data/ai/__init__.py -> /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data/ai
+[1.153s] byte-compiling /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data/ai/__init__.py to __init__.cpython-310.pyc
+[1.154s] running install_data
+[1.154s] running install_egg_info
+[1.156s] removing '/home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data-0.0.0-py3.10.egg-info' (and everything under it)
+[1.157s] Copying ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info to /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data-0.0.0-py3.10.egg-info
+[1.158s] running install_scripts
+[1.184s] Installing inference_node script to /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/template_python_step_5_include_data
+[1.184s] writing list of installed files to '/home/suogi/template_workspace/build/template_python_step_5_include_data/install.log'
+[1.221s] Invoked command in '/home/suogi/template_workspace/src/template_python_step_5_include_data' returned '0': PYTHONPATH=/home/suogi/template_workspace/build/template_python_step_5_include_data/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/template_python_step_5_include_data build --build-base /home/suogi/template_workspace/build/template_python_step_5_include_data/build install --record /home/suogi/template_workspace/build/template_python_step_5_include_data/install.log --single-version-externally-managed install_data

@@ -1,0 +1,53 @@
+running egg_info
+creating ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info
+writing ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/PKG-INFO
+writing dependency_links to ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/dependency_links.txt
+writing entry points to ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/entry_points.txt
+writing requirements to ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/requires.txt
+writing top-level names to ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/top_level.txt
+writing manifest file '../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/SOURCES.txt'
+reading manifest file '../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/suogi/template_workspace/build/template_python_step_5_include_data/build
+creating /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib
+creating /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data
+copying template_python_step_5_include_data/__init__.py -> /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data
+copying template_python_step_5_include_data/inference_node.py -> /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data
+creating /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data/ai
+copying template_python_step_5_include_data/ai/model_wrapper.py -> /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data/ai
+copying template_python_step_5_include_data/ai/__init__.py -> /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data/ai
+copying template_python_step_5_include_data/ai/config.py -> /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data/ai
+running install
+running install_lib
+creating /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data
+creating /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data/ai
+copying /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data/ai/model_wrapper.py -> /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data/ai
+copying /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data/ai/__init__.py -> /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data/ai
+copying /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data/ai/config.py -> /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data/ai
+copying /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data/__init__.py -> /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data
+copying /home/suogi/template_workspace/build/template_python_step_5_include_data/build/lib/template_python_step_5_include_data/inference_node.py -> /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data
+byte-compiling /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data/ai/model_wrapper.py to model_wrapper.cpython-310.pyc
+byte-compiling /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data/ai/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data/ai/config.py to config.cpython-310.pyc
+byte-compiling /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data/inference_node.py to inference_node.cpython-310.pyc
+running install_data
+creating /home/suogi/template_workspace/install/template_python_step_5_include_data/share/ament_index
+creating /home/suogi/template_workspace/install/template_python_step_5_include_data/share/ament_index/resource_index
+creating /home/suogi/template_workspace/install/template_python_step_5_include_data/share/ament_index/resource_index/packages
+copying resource/template_python_step_5_include_data -> /home/suogi/template_workspace/install/template_python_step_5_include_data/share/ament_index/resource_index/packages
+copying package.xml -> /home/suogi/template_workspace/install/template_python_step_5_include_data/share/template_python_step_5_include_data
+creating /home/suogi/template_workspace/install/template_python_step_5_include_data/share/template_python_step_5_include_data/launch
+creating /home/suogi/template_workspace/install/template_python_step_5_include_data/share/template_python_step_5_include_data/config
+creating /home/suogi/template_workspace/install/template_python_step_5_include_data/share/template_python_step_5_include_data/data
+creating /home/suogi/template_workspace/install/template_python_step_5_include_data/share/template_python_step_5_include_data/models
+copying models/mobilenet_v2.py -> /home/suogi/template_workspace/install/template_python_step_5_include_data/share/template_python_step_5_include_data/models
+copying models/mobilenet_v2.pth -> /home/suogi/template_workspace/install/template_python_step_5_include_data/share/template_python_step_5_include_data/models
+running install_egg_info
+Copying ../../build/template_python_step_5_include_data/template_python_step_5_include_data.egg-info to /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/python3.10/site-packages/template_python_step_5_include_data-0.0.0-py3.10.egg-info
+running install_scripts
+Installing inference_node script to /home/suogi/template_workspace/install/template_python_step_5_include_data/lib/template_python_step_5_include_data
+writing list of installed files to '/home/suogi/template_workspace/build/template_python_step_5_include_data/install.log'

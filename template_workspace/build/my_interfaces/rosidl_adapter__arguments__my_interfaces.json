@@ -1,0 +1,6 @@
+{
+  "package_name": "my_interfaces",
+  "non_idl_tuples": [
+    "/home/suogi/template_workspace/src/my_interfaces:msg/Person.msg"
+  ]
+}

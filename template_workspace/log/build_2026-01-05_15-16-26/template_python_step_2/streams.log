@@ -1,0 +1,44 @@
+[0.806s] Invoking command in '/home/suogi/template_workspace/src/template_python_step_2': PYTHONPATH=/home/suogi/template_workspace/build/template_python_step_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/template_python_step_2 build --build-base /home/suogi/template_workspace/build/template_python_step_2/build install --record /home/suogi/template_workspace/build/template_python_step_2/install.log --single-version-externally-managed install_data
+[1.094s] running egg_info
+[1.095s] creating ../../build/template_python_step_2/template_python_step_2.egg-info
+[1.095s] writing ../../build/template_python_step_2/template_python_step_2.egg-info/PKG-INFO
+[1.096s] writing dependency_links to ../../build/template_python_step_2/template_python_step_2.egg-info/dependency_links.txt
+[1.096s] writing entry points to ../../build/template_python_step_2/template_python_step_2.egg-info/entry_points.txt
+[1.096s] writing requirements to ../../build/template_python_step_2/template_python_step_2.egg-info/requires.txt
+[1.097s] writing top-level names to ../../build/template_python_step_2/template_python_step_2.egg-info/top_level.txt
+[1.097s] writing manifest file '../../build/template_python_step_2/template_python_step_2.egg-info/SOURCES.txt'
+[1.098s] reading manifest file '../../build/template_python_step_2/template_python_step_2.egg-info/SOURCES.txt'
+[1.098s] adding license file 'LICENSE'
+[1.099s] writing manifest file '../../build/template_python_step_2/template_python_step_2.egg-info/SOURCES.txt'
+[1.099s] running build
+[1.099s] running build_py
+[1.100s] creating /home/suogi/template_workspace/build/template_python_step_2/build
+[1.100s] creating /home/suogi/template_workspace/build/template_python_step_2/build/lib
+[1.100s] creating /home/suogi/template_workspace/build/template_python_step_2/build/lib/template_python_step_2
+[1.101s] copying template_python_step_2/talker_step_2.py -> /home/suogi/template_workspace/build/template_python_step_2/build/lib/template_python_step_2
+[1.101s] copying template_python_step_2/listener_step_2.py -> /home/suogi/template_workspace/build/template_python_step_2/build/lib/template_python_step_2
+[1.101s] copying template_python_step_2/__init__.py -> /home/suogi/template_workspace/build/template_python_step_2/build/lib/template_python_step_2
+[1.102s] copying template_python_step_2/temp_node.py -> /home/suogi/template_workspace/build/template_python_step_2/build/lib/template_python_step_2
+[1.102s] running install
+[1.102s] running install_lib
+[1.103s] creating /home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages/template_python_step_2
+[1.104s] copying /home/suogi/template_workspace/build/template_python_step_2/build/lib/template_python_step_2/talker_step_2.py -> /home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages/template_python_step_2
+[1.104s] copying /home/suogi/template_workspace/build/template_python_step_2/build/lib/template_python_step_2/listener_step_2.py -> /home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages/template_python_step_2
+[1.104s] copying /home/suogi/template_workspace/build/template_python_step_2/build/lib/template_python_step_2/__init__.py -> /home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages/template_python_step_2
+[1.104s] copying /home/suogi/template_workspace/build/template_python_step_2/build/lib/template_python_step_2/temp_node.py -> /home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages/template_python_step_2
+[1.105s] byte-compiling /home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages/template_python_step_2/talker_step_2.py to talker_step_2.cpython-310.pyc
+[1.106s] byte-compiling /home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages/template_python_step_2/listener_step_2.py to listener_step_2.cpython-310.pyc
+[1.106s] byte-compiling /home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages/template_python_step_2/__init__.py to __init__.cpython-310.pyc
+[1.106s] byte-compiling /home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages/template_python_step_2/temp_node.py to temp_node.cpython-310.pyc
+[1.107s] running install_data
+[1.107s] creating /home/suogi/template_workspace/install/template_python_step_2/share/ament_index
+[1.107s] creating /home/suogi/template_workspace/install/template_python_step_2/share/ament_index/resource_index
+[1.108s] creating /home/suogi/template_workspace/install/template_python_step_2/share/ament_index/resource_index/packages
+[1.108s] copying resource/template_python_step_2 -> /home/suogi/template_workspace/install/template_python_step_2/share/ament_index/resource_index/packages
+[1.108s] copying package.xml -> /home/suogi/template_workspace/install/template_python_step_2/share/template_python_step_2
+[1.109s] running install_egg_info
+[1.112s] Copying ../../build/template_python_step_2/template_python_step_2.egg-info to /home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages/template_python_step_2-0.0.0-py3.10.egg-info
+[1.114s] running install_scripts
+[1.139s] Installing temp_node script to /home/suogi/template_workspace/install/template_python_step_2/lib/template_python_step_2
+[1.140s] writing list of installed files to '/home/suogi/template_workspace/build/template_python_step_2/install.log'
+[1.169s] Invoked command in '/home/suogi/template_workspace/src/template_python_step_2' returned '0': PYTHONPATH=/home/suogi/template_workspace/build/template_python_step_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/suogi/template_workspace/install/template_python_step_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/template_python_step_2 build --build-base /home/suogi/template_workspace/build/template_python_step_2/build install --record /home/suogi/template_workspace/build/template_python_step_2/install.log --single-version-externally-managed install_data

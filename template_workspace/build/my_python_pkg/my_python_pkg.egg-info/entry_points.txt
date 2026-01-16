@@ -1,0 +1,4 @@
+[console_scripts]
+person_publisher = my_python_pkg.person_publisher:main
+person_subscriber = my_python_pkg.person_subscriber:main
+

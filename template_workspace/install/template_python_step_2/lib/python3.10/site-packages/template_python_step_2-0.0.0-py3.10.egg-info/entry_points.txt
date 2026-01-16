@@ -1,0 +1,5 @@
+[console_scripts]
+listener_step_2 = template_python_step_2.listener_step_2:main
+talker_step_2 = template_python_step_2.talker_step_2:main
+temp_node = template_python_step_2.temp_node:main
+
